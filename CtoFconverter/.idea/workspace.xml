@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e47a8ed7-94b1-4e6b-98cc-a12e057d91d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtoFconverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CtoFConverter.java" afterDir="false" />
+    <list default="true" id="e47a8ed7-94b1-4e6b-98cc-a12e057d91d2" name="Changes" comment="celsius to fahrenheit converter">
+      <change afterPath="$PROJECT_DIR$/../FuelCosts.java/src/FuelCosts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +34,9 @@
     "accountId": "e666b657-9d60-48a3-9f58-6b1d487d7b5e"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -66,7 +65,28 @@
       <option name="presentableId" value="Default" />
       <updated>1759500645366</updated>
     </task>
+    <task id="LOCAL-00001" summary="celsius to fahrenheit converter">
+      <option name="closed" value="true" />
+      <created>1759501462462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759501462462</updated>
+    </task>
+    <task id="LOCAL-00002" summary="celsius to fahrenheit converter">
+      <option name="closed" value="true" />
+      <created>1759501493957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759501493957</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="celsius to fahrenheit converter" />
+    <option name="LAST_COMMIT_MESSAGE" value="celsius to fahrenheit converter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
