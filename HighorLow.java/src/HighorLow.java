@@ -6,6 +6,7 @@ public class HighorLow {
         Scanner input = new Scanner(System.in);
         Random rand = new Random();
         int number = rand.nextInt(10) + 1; // random number between 1–10
+        int guess = 0; // ✅ Declare guess before using it
 
         // Loop until valid guess
         do {
